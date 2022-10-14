@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Weather App</string>
+    <string name="zip_code">Enter a Zip Code</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is the first fragment</string>
+</resources>
